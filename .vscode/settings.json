@@ -64,6 +64,9 @@
         "tuple": "cpp",
         "type_traits": "cpp",
         "typeinfo": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "__verbose_abort": "cpp",
+        "charconv": "cpp",
+        "set": "cpp"
     }
 }
