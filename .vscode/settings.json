@@ -67,6 +67,7 @@
         "algorithm": "cpp",
         "__verbose_abort": "cpp",
         "charconv": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "stack": "cpp"
     }
 }
