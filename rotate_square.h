@@ -3,6 +3,8 @@
 
 using namespace std;
 
+//temp[i][j] = arr[n-j-1][i]
+
 vector<vector<int>> rotateMatrix90(vector<vector<int>>& board) {
     int N = board.size();
     vector<vector<int>> newBoard(N, vector<int>(N));

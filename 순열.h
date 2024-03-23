@@ -2,7 +2,7 @@
 
 #include<iostream>
 #include<vector>
-#define MAX 5
+#define MAX 3
 
 using namespace std;
 
@@ -37,8 +37,6 @@ int main(void) {
     Arr[0] = 1;
     Arr[1] = 2;
     Arr[2] = 3;
-    Arr[3] = 4;
-    Arr[4] = 5;
 
     DFS(0);
 }

@@ -3,6 +3,8 @@
 
 using namespace std;
 
+//temp[i][j] = arr[n-j-1][i]
+
 vector<vector<int>> rotateMatrix90(vector<vector<int>>& matrix) {
     int row_length = matrix.size();
     int column_length = matrix[0].size();
